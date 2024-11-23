@@ -1,4 +1,5 @@
 Please see pdf file of the writeup for all images included 
+
 Goal
 Our goal for this machine project was to utilize the OpenCV Library to solve a jigsaw puzzle(in the sense that the computer will tell you where the pieces should go). Some assumptions we made is that the input would be separate images of all the puzzle pieces, with the pieces themselves being white and the background being black. We also made an assumption that the images would be taken under the same distance away from the camera. 
 
